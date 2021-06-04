@@ -8,6 +8,6 @@ Hi there, I'm :man_technologist:  [Harish](www.harishbn31.github.io)  :wave:
 -  Git | Markdown
 - :package: :gem:
 ### Contact
-:e-mail:  harishbn31@gmail.com
+:e-mail:  harish@dctacademy.com
 
 > “Talk is cheap. Show me the code.”  -Linus Torvalds
